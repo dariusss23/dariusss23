@@ -1,3 +1,7 @@
+# Hi there 👋
+
+Welcome to my GitHub profile! 🌟
+
 ## 🛠️ Skills
 
 ### Programming Languages
